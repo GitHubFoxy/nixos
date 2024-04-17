@@ -1,0 +1,2 @@
+# nixos
+Configs and things
